@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C, C++, Javascript, C#, HTML, CSS and Solidity
 - 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me jamellsamuels@googlemail.com
+- 📖 https://www.researchgate.net/profile/Jamell-Samuels
 
 <!---
 jamellknows/jamellknows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
