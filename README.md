@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamellknows
 - 👀 I’m interested in learning all about programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me jamellsamuels@googlemail.com
 - 📖 https://www.researchgate.net/profile/Jamell-Samuels
